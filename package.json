@@ -1,0 +1,14 @@
+{
+  "name": "lazy-accounting-core",
+  "version": "1.0.0",
+  "description": "Schedule C chart of accounts, vendor-rule categorizer, IRS mileage rates, self-employment tax and estimated-tax schedule from Lazy Accounting.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": { "test": "node --test" },
+  "keywords": ["accounting", "bookkeeping", "schedule-c", "irs", "mileage", "self-employment-tax", "fintech", "small-business"],
+  "homepage": "https://lazyaccounting.com",
+  "author": "Nova R&D Labs LLC",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
